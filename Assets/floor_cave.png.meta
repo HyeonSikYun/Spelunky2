@@ -1,0 +1,1003 @@
+fileFormatVersion: 2
+guid: 49a60e806250ae14eaeddd24e0636b73
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3799523373121841638
+    second: floor_cave_0
+  - first:
+      213: -2434653695750748351
+    second: floor_cave_1
+  - first:
+      213: 1608899267711344983
+    second: floor_cave_2
+  - first:
+      213: -4962148864778249560
+    second: floor_cave_3
+  - first:
+      213: 2123193570794018797
+    second: floor_cave_4
+  - first:
+      213: -173417019098173650
+    second: floor_cave_5
+  - first:
+      213: -8084528082558614105
+    second: floor_cave_6
+  - first:
+      213: 4722140856360693505
+    second: floor_cave_7
+  - first:
+      213: 4439620440378510687
+    second: floor_cave_8
+  - first:
+      213: 4948867409181122654
+    second: floor_cave_9
+  - first:
+      213: -8676509952253235688
+    second: floor_cave_10
+  - first:
+      213: -5354019618424571318
+    second: floor_cave_11
+  - first:
+      213: 7340723066606712409
+    second: floor_cave_12
+  - first:
+      213: -7296284190999045992
+    second: floor_cave_13
+  - first:
+      213: 8134785279145763012
+    second: floor_cave_14
+  - first:
+      213: -4592565008280507923
+    second: floor_cave_15
+  - first:
+      213: 4478314911758122715
+    second: floor_cave_16
+  - first:
+      213: -3958146806314823439
+    second: floor_cave_17
+  - first:
+      213: 8637629555710012461
+    second: floor_cave_18
+  - first:
+      213: 913078022539219176
+    second: floor_cave_19
+  - first:
+      213: -8754080752617788377
+    second: floor_cave_20
+  - first:
+      213: 7595489044649798153
+    second: floor_cave_21
+  - first:
+      213: 7029439624058905480
+    second: floor_cave_22
+  - first:
+      213: 5553091677877693774
+    second: floor_cave_23
+  - first:
+      213: -2357730742305412047
+    second: floor_cave_24
+  - first:
+      213: -5164104423479848476
+    second: floor_cave_25
+  - first:
+      213: 2507390008576671251
+    second: floor_cave_26
+  - first:
+      213: -174078363685637899
+    second: floor_cave_27
+  - first:
+      213: 7419151099593260976
+    second: floor_cave_28
+  - first:
+      213: -5867353552702432578
+    second: floor_cave_29
+  - first:
+      213: -4619709602121265792
+    second: floor_cave_30
+  - first:
+      213: 7061412404223043979
+    second: floor_cave_31
+  - first:
+      213: -3894258102533744292
+    second: floor_cave_32
+  - first:
+      213: -350674403836573350
+    second: floor_cave_33
+  - first:
+      213: -1612747430673008234
+    second: floor_cave_34
+  - first:
+      213: -5755193238571359856
+    second: floor_cave_35
+  - first:
+      213: 2683033104222065968
+    second: floor_cave_36
+  - first:
+      213: 5553567998616858334
+    second: floor_cave_37
+  - first:
+      213: 5297037408500675916
+    second: floor_cave_38
+  - first:
+      213: 3639636763010776940
+    second: floor_cave_39
+  - first:
+      213: -8834559486879153217
+    second: floor_cave_40
+  - first:
+      213: -1529511117932295983
+    second: floor_cave_41
+  - first:
+      213: 6321775525758023885
+    second: floor_cave_42
+  - first:
+      213: 601837903284576694
+    second: floor_cave_43
+  - first:
+      213: -2403193905131105147
+    second: floor_cave_44
+  - first:
+      213: 2595013690953123071
+    second: floor_cave_45
+  - first:
+      213: -876993157774023267
+    second: floor_cave_46
+  - first:
+      213: 3471386638030565819
+    second: floor_cave_47
+  - first:
+      213: 3403215935149878323
+    second: floor_cave_48
+  - first:
+      213: 6134985966471804708
+    second: floor_cave_49
+  - first:
+      213: 3796209696149467311
+    second: floor_cave_50
+  - first:
+      213: 631953356582704827
+    second: floor_cave_51
+  - first:
+      213: 6608337484274226691
+    second: floor_cave_52
+  - first:
+      213: -7108068342465977008
+    second: floor_cave_53
+  - first:
+      213: -5254075617052132361
+    second: floor_cave_54
+  - first:
+      213: -7958763202171834543
+    second: floor_cave_55
+  - first:
+      213: -5538554016473694089
+    second: floor_cave_56
+  - first:
+      213: 2706594318251446646
+    second: floor_cave_57
+  - first:
+      213: -5129358069749264089
+    second: floor_cave_58
+  - first:
+      213: 2954982871046401389
+    second: floor_cave_59
+  - first:
+      213: 1678045122546584667
+    second: floor_cave_60
+  - first:
+      213: -3252723947417457161
+    second: floor_cave_61
+  - first:
+      213: -1156446113982537007
+    second: floor_cave_62
+  - first:
+      213: 7192987884318729368
+    second: floor_cave_63
+  - first:
+      213: 1933707437265513999
+    second: floor_cave_64
+  - first:
+      213: 4932145708322562462
+    second: floor_cave_65
+  - first:
+      213: -6211884690450623733
+    second: floor_cave_66
+  - first:
+      213: -8850084263134907690
+    second: floor_cave_67
+  - first:
+      213: 533516994598688981
+    second: floor_cave_68
+  - first:
+      213: -2496434147862475237
+    second: floor_cave_69
+  - first:
+      213: -4633195297225619876
+    second: floor_cave_70
+  - first:
+      213: 3238524487370674124
+    second: floor_cave_71
+  - first:
+      213: -1477462350416828124
+    second: floor_cave_72
+  - first:
+      213: -7847087968092026593
+    second: floor_cave_73
+  - first:
+      213: 2127102714961581219
+    second: floor_cave_74
+  - first:
+      213: 512713687077926430
+    second: floor_cave_75
+  - first:
+      213: 3606244955328991833
+    second: floor_cave_76
+  - first:
+      213: -1525982455900703980
+    second: floor_cave_77
+  - first:
+      213: 5137106730832035687
+    second: floor_cave_78
+  - first:
+      213: -8620673019635420366
+    second: floor_cave_79
+  - first:
+      213: -5082576836046796259
+    second: floor_cave_80
+  - first:
+      213: 3598454727492481570
+    second: floor_cave_81
+  - first:
+      213: 2241578638744520028
+    second: floor_cave_82
+  - first:
+      213: 8831594126644735411
+    second: floor_cave_83
+  - first:
+      213: 69466521668108708
+    second: floor_cave_84
+  - first:
+      213: 5201069184785717243
+    second: floor_cave_85
+  - first:
+      213: -6312609073137812802
+    second: floor_cave_86
+  - first:
+      213: 6970026907260391677
+    second: floor_cave_87
+  - first:
+      213: 7071904647132909000
+    second: floor_cave_88
+  - first:
+      213: 4850868984950521563
+    second: floor_cave_89
+  - first:
+      213: -1228564206359723094
+    second: floor_cave_90
+  - first:
+      213: -2947263611186493553
+    second: floor_cave_91
+  - first:
+      213: -3000578578127179262
+    second: floor_cave_92
+  - first:
+      213: 3202100476786951240
+    second: floor_cave_93
+  - first:
+      213: -5061263941942123135
+    second: floor_cave_94
+  - first:
+      213: 7645668047090856267
+    second: floor_cave_95
+  - first:
+      213: -1865595114846609309
+    second: floor_cave_96
+  - first:
+      213: -2029616360907723024
+    second: floor_cave_97
+  - first:
+      213: -7695340513826352804
+    second: floor_cave_98
+  - first:
+      213: 3624994109678421392
+    second: floor_cave_99
+  - first:
+      213: -4317743155794488653
+    second: floor_cave_100
+  - first:
+      213: 271403855843198370
+    second: floor_cave_101
+  - first:
+      213: -4689728482730896874
+    second: floor_cave_102
+  - first:
+      213: -5917698022517872279
+    second: floor_cave_103
+  - first:
+      213: 7694573255479736707
+    second: floor_cave_104
+  - first:
+      213: -4048258271376811772
+    second: floor_cave_105
+  - first:
+      213: 4301331188317806258
+    second: floor_cave_106
+  - first:
+      213: -4938241680774611926
+    second: floor_cave_107
+  - first:
+      213: -3998305801990281344
+    second: floor_cave_108
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 120
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: floor_cave_0
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 1020
+        width: 113
+        height: 513
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 113, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1657457f91654bc0800000000000000
+      internalID: -3799523373121841638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_cave_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1420
+        width: 513
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1474fa1fc5f563ed0800000000000000
+      internalID: -2434653695750748351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_cave_2
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 1047
+        width: 126
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75122531c55f35610800000000000000
+      internalID: 1608899267711344983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_cave_3
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 681
+        width: 257
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aad848e5e7e22bb0800000000000000
+      internalID: -4962148864778249560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_cave_4
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 1408
+        width: 131
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de71290bd49177d10800000000000000
+      internalID: 2123193570794018797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_cave_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1293
+        width: 513
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f65a2d326e79df0800000000000000
+      internalID: -173417019098173650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_cave_6
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1172
+        width: 123
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a58c66ea8cfdcf80800000000000000
+      internalID: -8084528082558614105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_cave_7
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1047
+        width: 126
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fecb2071a688140800000000000000
+      internalID: 4722140856360693505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_cave_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1047
+        width: 126
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5d0356b443bc9d30800000000000000
+      internalID: 4439620440378510687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_cave_9
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 165
+        width: 373
+        height: 87
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e50afbc30b8eda440800000000000000
+      internalID: 4948867409181122654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_cave_10
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 1033
+        width: 38
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81eedc52b28d69780800000000000000
+      internalID: -8676509952253235688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_cave_11
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 899
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4ab45b1683b2b5b0800000000000000
+      internalID: -5354019618424571318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_cave_12
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 900
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956fb9b7cbc7fd560800000000000000
+      internalID: 7340723066606712409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_cave_13
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 899
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89814378f246eba90800000000000000
+      internalID: -7296284190999045992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_cave_14
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1047
+        width: 126
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c06f878c1094e070800000000000000
+      internalID: 8134785279145763012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_cave_15
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 768
+        width: 36
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de92d89157ee340c0800000000000000
+      internalID: -4592565008280507923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_cave_16
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 768
+        width: 44
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bde7da36fab262e30800000000000000
+      internalID: 4478314911758122715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_cave_17
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 768
+        width: 39
+        height: 130
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f012c86376d119c0800000000000000
+      internalID: -3958146806314823439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_cave_18
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 682
+        width: 128
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ca28911560fd770800000000000000
+      internalID: 8637629555710012461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_cave_19
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 513
+        width: 244
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e09aa1bf97ebac00800000000000000
+      internalID: 913078022539219176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_cave_20
+      rect:
+        serializedVersion: 2
+        x: 1323
+        y: 562
+        width: 156
+        height: 174
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72ce125cfe1438680800000000000000
+      internalID: -8754080752617788377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_cave_21
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 325
+        width: 297
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ae8b12b09986960800000000000000
+      internalID: 7595489044649798153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_cave_22
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 616
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 883261238169d8160800000000000000
+      internalID: 7029439624058905480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_cave_23
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 537
+        width: 384
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4de311a57b801d40800000000000000
+      internalID: 5553091677877693774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_cave_24
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 413
+        width: 389
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c2ed4b168a74fd0800000000000000
+      internalID: -2357730742305412047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_cave_25
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 5
+        width: 340
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1d57f236a6558b0800000000000000
+      internalID: -5164104423479848476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floor_cave_26
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 253
+        width: 512
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 95, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31e73969de90cc220800000000000000
+      internalID: 2507390008576671251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
